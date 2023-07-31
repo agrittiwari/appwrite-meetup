@@ -1,0 +1,16 @@
+{
+  "name": "appwrite-server",
+  "version": "1.0.0",
+  "description": "appwrite-meetup",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.ts"
+  },
+  "author": "Ag",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-appwrite": "^9.0.0"
+  }
+}
